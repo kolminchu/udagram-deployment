@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: udagram-frontend
-        image: scharati/udagram-frontend:v1
+        image: scharati/udagram-frontend:v2
         ports:
         - containerPort: 9000
