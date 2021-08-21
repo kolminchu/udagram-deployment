@@ -7,5 +7,5 @@ data:
   POSTGRES_DB: udagramfeeddev
   AWS_BUCKET: udagram-dev-bucket
   AWS_REGION: us-east-2
-  URL: http://localhost:8100
+  URL: http://localhost:9000
   AWS_PROFILE: default
